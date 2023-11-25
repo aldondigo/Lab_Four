@@ -1,4 +1,7 @@
 #!/bin/bash
 
-echo "Hello There" $1
+read -p "What is your name?"
+
+echo "Hi there $name"
+echo "Welcome to GISC605"
 

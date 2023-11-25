@@ -1,3 +1,4 @@
 #!/bin/bash
 
-echo "Hello Andrea!"
+echo "Hello There" $1
+
